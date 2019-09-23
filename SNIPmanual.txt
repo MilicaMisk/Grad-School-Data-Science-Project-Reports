@@ -1,0 +1,15 @@
+The SNIP.py and SNIP.exe are the scrips for cropping personal data out of ECG output image. 
+
+For Windows users:
+- Copy SNIP.ex to the folder with images that need to be cropped.
+- Double click in order to run the script.
+- If there is a non-image file in the folder, ERROR message will pop up. Click OK. The file in question will be skipped.
+- The script will create a new folder that will contain the final product, cropped images.
+
+For Apple users:
+- Copy SNIP.py to the folder with images that need to be cropped.
+- Double click in order to run the script. the script will open in Python IDE. 
+- Install packages Pillow and EasyTkinter.
+- Run the program. 
+- If there is a non-image file in the folder, ERROR message will pop up. Click OK. The file in question will be skipped.
+- The script will create a new folder that will contain the final product, cropped images.
